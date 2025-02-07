@@ -266,4 +266,4 @@ Ardışıl ve Kombinasyonel mantık hakkındali uygulamalırı örnek dosyalrı 
 # Kaynakça
 
 - Digital Design With an Introduction to the Verilog HDL FIFTH EDITION
-
+- https://www.geeksforgeeks.org/digital-electronics-logic-design-tutorials/
